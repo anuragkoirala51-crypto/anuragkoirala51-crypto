@@ -54,7 +54,7 @@ I enjoy designing and building websites, experimenting with new technologies, an
 <tr>
 <td width="50%" valign="top">
 
-### 🌐 Personal Portfolio
+###  Personal Portfolio
 
 **[Anurag-Koirala](https://github.com/anuragkoirala51-crypto/Anurag-Koirala)**
 
