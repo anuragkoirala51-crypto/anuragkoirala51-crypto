@@ -27,10 +27,10 @@ I'm an engineering student at **Tezpur University** with an interest in web deve
 
 I enjoy designing and building websites, experimenting with new technologies, and turning ideas into practical projects. Most of my learning comes from building things and improving them along the way.
 
-- 🎓 Electronics and Communication Engineering
-- 💻 Interested in frontend and full-stack development
-- 🛠️ Focused on hands-on projects and practical learning
-- 📍 Assam, India
+- Electronics and Communication Engineering
+- Interested in frontend and full-stack development
+- Focused on hands-on projects and practical learning
+- Assam, India
 
 ---
 
@@ -63,7 +63,7 @@ My personal portfolio website, showcasing my work and web development projects.
 </td>
 <td width="50%" valign="top">
 
-### 🚨 Disaster Coordination
+###  Disaster Coordination
 
 **[Integrated Disaster Coordination](https://github.com/anuragkoirala51-crypto/idcs--integrated-disaster-coordination)**
 
@@ -74,7 +74,7 @@ A Python project focused on disaster coordination.
 <tr>
 <td width="50%" valign="top">
 
-### ☕ Anurag's Cafe
+###  Anurag's Cafe
 
 **[View Repository](https://github.com/anuragkoirala51-crypto/Anurag-s-Cafe)**
 
@@ -83,7 +83,7 @@ A cafe website design project focused on presenting a business online.
 </td>
 <td width="50%" valign="top">
 
-### 🌙 Midnight Cravings
+###  Midnight Cravings
 
 **[View Repository](https://github.com/anuragkoirala51-crypto/Midnight-Cravings)**
 
